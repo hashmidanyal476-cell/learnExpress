@@ -1,0 +1,19 @@
+{
+  "name": "backenddevelopment",
+  "version": "1.0.0",
+  "description": "\"app to deploy\"",
+  "keywords": [
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "danyal ahmad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0"
+  }
+}
